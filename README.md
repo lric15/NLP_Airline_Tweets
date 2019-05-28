@@ -1,2 +1,2 @@
-# NLP_Airline_Tweets
+# NLP Airline Tweets
 Classification of airline tweets
